@@ -1,0 +1,1 @@
+For the front_end,there are several modules are required which are flask,flask_restful,flask_cors,urllib,re,urllib.request and os.After clicking the search button,it may take a while to download the movie pictures,and these pictures will be stored in the img fold.Firefox browser are recommended for opening recommendation.html.
